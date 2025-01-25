@@ -28,4 +28,5 @@ Disallow:/
 User-agent:meta-externalagent
 Disallow:/
 
-Sitemap: https://cricbet99.pro/
+Sitemap: https://cricbet99.pro/sitemap.xml
+Sitemap: https://cricbet99.pro/images_sitemap.xml
